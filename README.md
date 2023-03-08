@@ -22,3 +22,5 @@ This repo demos an iOS crash in React Native Navigation.
 2. Press "Open modal"
 3. Press "Navigate to another tab"
 4. See crash
+
+Bug reported here: https://github.com/react-navigation/react-navigation/issues/11270
